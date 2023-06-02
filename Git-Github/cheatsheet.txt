@@ -1,0 +1,18 @@
+Comandos mas utilizados en Git-Github
+$ git init:
+Crear un nuevo repositorio local/ iniciar git
+
+$ git commit -m "first commit":
+Sube los archivos al repositorio local
+
+$ git add . :
+Sube losarchivos al staging area
+
+$ git branch -M main:
+cambia el nombre de la rama principal a main
+
+$ git push origin main:
+Sube los archivos del repositorio local al github ya conectado
+
+$ git pull origin main:
+Descarga los archivos del repositorio de github al local
